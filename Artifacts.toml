@@ -1,42 +1,42 @@
 [[pandoc]]
 arch = "aarch64"
-git-tree-sha1 = "3e81b95694a78ba66e147182fe3cbf7832581ce7"
+git-tree-sha1 = "0cfae222ca0ecc5a7dd2e344f088f7c5fc35c20e"
 os = "macos"
 
     [[pandoc.download]]
-    sha256 = "ddd3c6d6f18916ee2105307eddd6586e2523056020c74d62e94946348333d064"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.9+0/pandoc.v3.1.9.aarch64-apple-darwin.tar.gz"
+    sha256 = "a036203b825162e3b9fc2e307da946300f7fa75e762c71f0e1c37c5088bb2538"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.12+0/pandoc.v3.1.12.aarch64-apple-darwin.tar.gz"
 [[pandoc]]
 arch = "aarch64"
-git-tree-sha1 = "54319d418e7a07b429a402f3e8ee2bfa6793ef8a"
+git-tree-sha1 = "90e9c3826684c278e7221c5c82ad80d536d37213"
 libc = "glibc"
 os = "linux"
 
     [[pandoc.download]]
-    sha256 = "7f2cc9abeadf258bd200dc628bf170df4c983c995b6b9ff561e21710a2d40eb5"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.9+0/pandoc.v3.1.9.aarch64-linux-gnu.tar.gz"
+    sha256 = "f5dc59c132e7ad9ac1dea19013db58e3f024e1e1f3ba0454dfe9cca2cbfe7e9c"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.12+0/pandoc.v3.1.12.aarch64-linux-gnu.tar.gz"
 [[pandoc]]
 arch = "x86_64"
-git-tree-sha1 = "3ba575124382ea05a0e14234633da95c98609b6e"
+git-tree-sha1 = "ddc39110c48dc09062e1f35f0ac9913a2a007f97"
 os = "macos"
 
     [[pandoc.download]]
-    sha256 = "a6b81aaa380e16eb8674ba427c4e46927c5a4de8c19cf0d53b57c3669588fa7f"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.9+0/pandoc.v3.1.9.x86_64-apple-darwin.tar.gz"
+    sha256 = "d27e6bbf5b0bc0a7a7d8b929113eea50fbd7542717fe46d6e4a4b84fb258acd0"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.12+0/pandoc.v3.1.12.x86_64-apple-darwin.tar.gz"
 [[pandoc]]
 arch = "x86_64"
-git-tree-sha1 = "309da498a6a7de2dc855f609e0f558be10554974"
+git-tree-sha1 = "8ef3302223380c1e70f508ab7649ca849fe425a1"
 libc = "glibc"
 os = "linux"
 
     [[pandoc.download]]
-    sha256 = "c4b74bc87e99193c53d5c522e93c686b023a476443dc078c8a4bc3c5eedae35e"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.9+0/pandoc.v3.1.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "6e5e4390f0311541d762cb615d36e942c1540bf07a36fa97c66da7c62798a630"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.12+0/pandoc.v3.1.12.x86_64-linux-gnu.tar.gz"
 [[pandoc]]
 arch = "x86_64"
-git-tree-sha1 = "7d0ca8141f148fabb6be34a0015d2c92c1ff3ea5"
+git-tree-sha1 = "1868acf122dbc7525b2f6e07bee93bdaa5d6fce9"
 os = "windows"
 
     [[pandoc.download]]
-    sha256 = "807d09e8a5b87619e504b56741dcfee65006f3c4e8b0907ea97c5fe676deea65"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.9+0/pandoc.v3.1.9.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8861a5d87f37ae7432d3dfecb37675da5485a678d13876b27a70716decda50c8"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v3.1.12+0/pandoc.v3.1.12.x86_64-w64-mingw32.tar.gz"

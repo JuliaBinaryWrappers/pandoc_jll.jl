@@ -1,6 +1,6 @@
 name = "pandoc_jll"
 uuid = "c5432543-76ad-5c9d-82bf-db097047a5e2"
-version = "3.1.9+0"
+version = "3.1.12+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
